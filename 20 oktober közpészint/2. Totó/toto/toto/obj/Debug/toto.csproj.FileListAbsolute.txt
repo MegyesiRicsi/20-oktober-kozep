@@ -1,0 +1,6 @@
+Z:\20 oktober közpészint\2. Totó\toto\toto\bin\Debug\toto.exe.config
+Z:\20 oktober közpészint\2. Totó\toto\toto\bin\Debug\toto.exe
+Z:\20 oktober közpészint\2. Totó\toto\toto\bin\Debug\toto.pdb
+Z:\20 oktober közpészint\2. Totó\toto\toto\obj\Debug\toto.csprojAssemblyReference.cache
+Z:\20 oktober közpészint\2. Totó\toto\toto\obj\Debug\toto.exe
+Z:\20 oktober közpészint\2. Totó\toto\toto\obj\Debug\toto.pdb
